@@ -1,12 +1,12 @@
 import React from 'react';
-
+import Headshot from '../../images/porchheadshot.jpeg';
 function Body() {
   return (
     <div className = "body">
       <h1>SFPOPOS</h1>
       <div className = "page-wrapper">
           <div className="page-section" id="about">
-          <img src={process.env.PUBLIC_URL + "/images/porchheadshot.jpeg"} alt="myself"/>
+          <img src={Headshot} alt="myself"/>
           <h2>About me</h2>
           <p>I'm William Joseph Woodall, your friendly neighborhood web developer. I've always had an interest in technology and now I'm making it my living. 
           What I lack in experience I compensate for with tenacity and a willingness to learn and experiment.</p>
