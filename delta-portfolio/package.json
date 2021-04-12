@@ -1,7 +1,7 @@
 {
   "name": "delta-portfolio",
   "version": "0.1.0",
-  "homepage": "http://Asieger75.github.io/Port-React",
+  "homepage": "http://Asieger75.github.io/Portfolio-React",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
